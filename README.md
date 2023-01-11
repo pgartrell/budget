@@ -1,2 +1,3 @@
-# budget
-Budget
+# Budget
+
+Simple application to manage a simple budget
